@@ -35,4 +35,4 @@ if choice3:
 
 # Final message
 st.write("\nNo matter what you choose in this little adventure…")
-st.success("You’re the coolest ever and i wana spend my whole life in your care. Do you want the same?👉👈. SUPER SORRY IF THIS HIT CRINGE. I TRIED MY BEST😭😭")
+st.success("You’re the coolest ever and i wana spend my whole life in your care. Do you... want the same?👉👈. SUPER SORRY IF THIS HIT CRINGE. I TRIED MY BEST😭😭")
