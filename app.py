@@ -4,7 +4,7 @@ st.title("Tiny Adventure 😏")
 st.write("Let's go on a tiny adventure together!\n")
 
 # First choice
-choice1 = st.radio("Do you want to go to the bed or stay home?", ["Home", "Home", "Surprise!"])
+choice1 = st.radio("Do you want to go to the bed or stay home?", ["Bed", "Home", "Surprise!"])
 if choice1:
     if choice1 == "Bed":
         st.write("😳😳🫣 ohh uhh no horny remember???")
