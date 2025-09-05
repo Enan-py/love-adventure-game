@@ -14,25 +14,25 @@ if choice1:
         st.write("Oh a surprise! i wonder what kinda dih is waiting for me😋😋")
 
 # Second choice
-choice2 = st.radio("Do you pick ice cream or chocolate?", ["Ice Cream", "Chocolate", "Mystery Snack"])
+choice2 = st.radio("Do you pick ice cream or chocolate?", ["Ice Cream", "Chocolate", "Me"])
 if choice2:
     if choice2 == "Ice Cream":
         st.write("Oooh ice cream, that’s sweet… but not as sweet as you 😋🍦")
     elif choice2 == "Chocolate":
-        st.write("Chocolate huh? Dark and smooth… kinda like you 😏🍫")
+        st.write("I think you had a better option down there😔")
     else:
-        st.write("A surprise snack! Just like how you surprise me 😄")
+        st.write("😳🫣 ye mommy please eat me🫣")
 
 # Third choice
-choice3 = st.radio("Do you want to watch a movie or stargaze?", ["Movie", "Stars", "Unexpected"])
+choice3 = st.radio("Do you want to watch a movie or stargaze?", ["Movie", "Stars", "😏"])
 if choice3:
     if choice3 == "Movie":
         st.write("Movie night? Popcorn ready… but I’d rather watch you 😎🎬")
     elif choice3 == "Stars":
         st.write("Stargazing, nice… still can’t compete with your sparkle ✨")
     else:
-        st.write("Unexpected plans! I like that… keeps me on my toes 😏")
+        st.write("Ill take that as a baby factory proposal😏")
 
 # Final message
 st.write("\nNo matter what you choose in this little adventure…")
-st.success("You’re amazing 😘 And I’m lucky to have you in my world ❤️")
+st.success("You’re the coolest ever and i wana spend my whole life in your care. Do you want the same?👉👈. SUPER SORRY IF THIS HIT CRINGE. I TRIED MY BEST😭😭")
