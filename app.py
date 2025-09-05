@@ -29,7 +29,7 @@ if choice3:
     if choice3 == "Movie":
         st.write("Movie night? Popcorn ready… but I’d rather watch you 😎🎬")
     elif choice3 == "Stars":
-        st.write("Stargazing, nice… still can’t compete with your sparkle ✨")
+        st.write("Stargazing, nice… still can’t compete with your spark! u the besttt ✨")
     else:
         st.write("Ill take that as a baby factory proposal😏")
 
