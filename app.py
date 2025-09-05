@@ -4,14 +4,14 @@ st.title("Tiny Adventure 😏")
 st.write("Let's go on a tiny adventure together!\n")
 
 # First choice
-choice1 = st.radio("Do you want to go to the park or stay home?", ["Park", "Home", "Surprise!"])
+choice1 = st.radio("Do you want to go to the bed or stay home?", ["Home", "Home", "Surprise!"])
 if choice1:
-    if choice1 == "Park":
-        st.write("Oooh the park, nice! But still not as fresh as you 🌞")
+    if choice1 == "Bed":
+        st.write("😳😳🫣 ohh uhh no horny remember???")
     elif choice1 == "Home":
-        st.write("Staying in, huh? Cozy vibes… but you make everything warmer 😏")
+        st.write("Staying in, huh? Cozyy... but you make everything warmer 😏")
     else:
-        st.write("Hmm, a mystery move! Just like your vibe 😎")
+        st.write("Oh a surprise! i wonder what kinda dih is waiting for me😋😋")
 
 # Second choice
 choice2 = st.radio("Do you pick ice cream or chocolate?", ["Ice Cream", "Chocolate", "Mystery Snack"])
