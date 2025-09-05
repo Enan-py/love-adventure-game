@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Tiny Adventure 😏")
-st.write("Let's go on a tiny adventure together!\n")
+st.write("Let's go on a lil date shall we ari?!\n")
 
 # First choice
 choice1 = st.radio("Do you want to go to the bed or stay home?", ["Bed", "Home", "Surprise!"])
